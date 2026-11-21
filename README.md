@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F9A8D4,50:EC4899,100:F472B6&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F9A8D4,50:EC4899,100:F472B6&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20and%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
 
 <p align="center">
   <a href="https://github.com/moniradev">
