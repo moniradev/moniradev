@@ -1,10 +1,10 @@
 <!-- ================================================== -->
-<!-- MONIRA AKTER - PINK NEUMORPHISM PROFILE README -->
+<!-- MONIRA AKTER - SOFT PINK NEUMORPHISM PROFILE README -->
 <!-- ================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F9A8D4,50:EC4899,100:F472B6&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20and%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:FBCFE8,50:F472B6,100:FBCFE8&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20and%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
 
 <p align="center">
   <a href="https://github.com/moniradev">
@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=DB2777&center=true&vCenter=true&width=520&height=42&lines=Computer+Science+%26+Engineering+Graduate;Full+Stack+Web+Developer+%F0%9F%8C%B8;AI+%26+Computer+Vision+Enthusiast;Exploring+LLMs%2C+RAG+%26+AI+Agents;IELTS+7.0+%7C+German+A2+Learner;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=BE185D&background=FCE7F3&center=true&vCenter=true&width=520&height=42&lines=Computer+Science+%26+Engineering+Graduate;Full+Stack+Web+Developer+%F0%9F%8C%B8;AI+%26+Computer+Vision+Enthusiast;Exploring+LLMs%2C+RAG+%26+AI+Agents;IELTS+7.0+%7C+German+A2+Learner;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moniradev&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=moniradev&label=PROFILE%20VIEWS&color=F472B6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -148,12 +148,12 @@
 *My development activity and coding statistics.*
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=moniradev&show_icons=true&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&icon_color=EC4899&text_color=4A1935&rank_icon=github" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniradev&layout=compact&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&text_color=4A1935" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=moniradev&show_icons=true&hide_border=false&border_radius=18&bg_color=FCE7F3&border_color=F9A8D4&title_color=BE185D&icon_color=EC4899&text_color=4A1935&rank_icon=github" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniradev&layout=donut&hide_border=false&border_radius=18&bg_color=FCE7F3&border_color=F9A8D4&title_color=BE185D&text_color=4A1935" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://streak-stats.demolab.com?user=moniradev&hide_border=false&border_radius=18&background=FFF0F6&border_color=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=BE185D&sideLabels=4A1935&currStreakNum=831843&sideNums=831843&dates=9D174D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=moniradev&hide_border=false&border_radius=18&background=FCE7F3&border_color=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=BE185D&sideLabels=4A1935&currStreakNum=831843&sideNums=831843&dates=9D174D" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -225,7 +225,7 @@ Let's build something amazing together!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:F9A8D4,50:EC4899,100:F472B6&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:FBCFE8,50:F472B6,100:FBCFE8&section=footer" width="100%" alt="Footer Banner" />
 
 ### 💗 Thanks for visiting my digital space!
 **Keep Learning • Keep Building • Keep Shining**
