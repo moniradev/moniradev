@@ -1,211 +1,233 @@
+<!-- ================================================== -->
+<!-- MONIRA AKTER - PINK NEUMORPHISM PROFILE README -->
+<!-- ================================================== -->
+
 <div align="center">
 
-<!-- 🌸 Animated Pink-Lavender Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:C4B5FD&height=230&section=header&text=MONIRA%20AKTER&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F9A8D4,50:EC4899,100:F472B6&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
 
-<!-- ✨ Animated Typing Intro -->
-<a href="https://github.com/Monira902">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Monira+Akter+%F0%9F%8C%B8;Computer+Science+%26+Engineering+Graduate+%F0%9F%8E%93;Full-Stack+Web+%26+AI+Developer+%F0%9F%92%BB;Exploring+Computer+Vision+%26+LLMs+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- 🎀 Quick Action Badges -->
 <p align="center">
   <a href="https://github.com/Monira902">
-    <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-F472B6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=BE185D" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-F472B6?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=BE185D" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Monira902&label=VISITORS&color=F472B6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-</div>
-
----
-
-<h2 align="center">🌷 About Me 🌷</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <p>
-          💗 Hello! I'm <b>Monira Akter</b>, a Computer Science & Engineering graduate from <b>Dhaka International University</b> (CGPA: <b>3.90/4.00</b>).
-        </p>
-        <p>
-          🌸 I love building clean, responsive web applications and diving deep into <b>Artificial Intelligence, Computer Vision, and Modern Software Engineering</b>. Currently leveling up in Next.js, TypeScript, LLMs, RAG, and AI Agents!
-        </p>
-        <p>
-          📍 <b>Location:</b> Dhaka, Bangladesh<br/>
-          🎯 <b>Focus:</b> Full-Stack Web Development & AI Engineering<br/>
-          ✨ <b>Motto:</b> <i>Always learning, always building, always shining.</i>
-        </p>
-      </td>
-      <td width="40%" valign="top" align="center">
-        <b>🌐 Language Proficiency</b>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Bangla-Native-F472B6?style=flat-square" /><br/><br/>
-        <img src="https://img.shields.io/badge/English-IELTS_7.0-EC4899?style=flat-square" /><br/><br/>
-        <img src="https://img.shields.io/badge/German-A2_Level-C084FC?style=flat-square" /><br/><br/>
-        <b>🎓 Academic Highlight</b><br/>
-        <img src="https://img.shields.io/badge/BSc_CSE-CGPA_3.90%2F4.00-DB2777?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">💻 Tech Stack & Skills 💻</h2>
-
-<div align="center">
-
-#### 🌸 Languages & Core
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=light" />
-
-#### 🎀 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs&theme=light" />
-
-#### 🦋 Backend, Database & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel&theme=light" />
-
-#### 🤖 AI, Computer Vision & Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode&theme=light" />
-
-<br/><br/>
-
-<!-- Custom Pink Pills for Specialized AI Skills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-EC4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image_Segmentation-F472B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs_%26_RAG-C084FC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-DB2777?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F9A8D4?style=for-the-badge&logoColor=black"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=DB2777&center=true&vCenter=true&width=520&height=42&lines=Computer+Science+%26+Engineering+Graduate;Full+Stack+Web+Developer+%F0%9F%8C%B8;AI+%26+Computer+Vision+Enthusiast;Exploring+LLMs%2C+RAG+%26+AI+Agents;IELTS+7.0+%7C+German+A2+Learner;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monira902&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-<h2 align="center">🦋 Research & Featured Projects 🦋</h2>
+<div align="center">
+
+## ✦ ABOUT ME ✦
+
+<img src="https://github.com/Monira902.png" width="150" alt="Monira Akter" />
+
+### 🌸 Hello, I'm Monira!
+
+**📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate (CGPA 3.90/4.00) &nbsp;•&nbsp; 💻 Developer &nbsp;•&nbsp; 🤖 AI Enthusiast**
+
+</div>
+
+> I'm a Computer Science & Engineering graduate from **Dhaka International University** with a CGPA of **3.90/4.00**. During my studies, I built strong foundations in programming, software development, databases, and modern web technologies, alongside academic projects and research in Artificial Intelligence and Computer Vision.
+>
+> Beyond coding, I achieved an **IELTS Overall Band Score of 7.0** and am independently learning **German (A2 level)**. Always learning, always building, and passionate about crafting meaningful digital solutions.
+>
+> **Currently focused on:**
+> - Full-Stack Web Development (React.js, Next.js, TypeScript, Node.js, MongoDB)
+> - Artificial Intelligence, LLMs, Prompt Engineering, RAG & AI Agents
+> - Computer Vision, Deep Learning & Image Segmentation
+> - Software Engineering & Problem Solving (OOP, DSA)
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🍃 Guava Disease Classification, Detection & Segmentation</h3>
-        <p><i>Bachelor's Thesis • Deep Learning & Computer Vision</i></p>
-        <ul>
-          <li>Implemented deep-learning models for agricultural disease classification, detection, and image segmentation.</li>
-          <li>Integrated AI models into a responsive web application for real-time analysis.</li>
-          <li>Applied computer vision and image-processing pipelines.</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Deep_Learning-EC4899?style=flat-square"/>
-          <img src="https://img.shields.io/badge/YOLOv8-F472B6?style=flat-square"/>
-          <img src="https://img.shields.io/badge/OpenCV-C084FC?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Web_App-DB2777?style=flat-square"/>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🎮 Three Men's Morris Game</h3>
-        <p><i>Academic Project • Game Logic & Interactive UI</i></p>
-        <ul>
-          <li>Built a digital version of the classic Three Men's Morris strategy board game.</li>
-          <li>Designed smooth game mechanics, turn management, and winning condition logic.</li>
-          <li>Crafted an intuitive, interactive user interface for seamless gameplay.</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Game_Logic-EC4899?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Interactive_UI-F472B6?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Algorithm-C084FC?style=flat-square"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+## ✧ AREAS OF EXPERTISE ✧
+
+*Where software engineering meets creativity and artificial intelligence.*
+
+</div>
+
+> ### 🌸 Frontend & Web Development
+> - HTML5 • CSS3 • Tailwind CSS • Bootstrap • Responsive Web Design
+> - JavaScript • TypeScript • React.js • Next.js (Basic Knowledge)
+> - Interactive User Interfaces • Modern Web-Based Applications
+
+> ### 💻 Backend & Database Systems
+> - Node.js • Express.js • MongoDB • Firebase
+> - REST APIs • Authentication • Full-Stack Web Integration
+> - Database Management & Software Engineering Principles
+
+> ### 🤖 AI & Computer Vision
+> - Deep Learning • TensorFlow • YOLOv8 • OpenCV • Image Segmentation
+> - Agricultural Disease Classification, Detection & Segmentation
+> - Large Language Models (LLMs) • Prompt Engineering • RAG • AI Agents
+
+> ### 🌐 Languages & Communication
+> - **Bangla:** Native
+> - **English:** IELTS Overall Band Score **7.0**
+> - **German:** **A2** Level (Independent Learner)
+
+---
+
+<div align="center">
+
+## ⚡ TECHNOLOGY ARSENAL ⚡
+
+*Tools and technologies I work with.*
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&perline=5&theme=light" alt="Programming Languages" />
+</p>
+
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs&perline=6&theme=light" alt="Frontend Development" />
+</p>
+
+### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4&theme=light" alt="Backend and Database" />
+</p>
+
+### AI, Computer Vision & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,vercel&perline=6&theme=light" alt="AI and Tools" />
+</p>
+
+### Specialized AI & Research Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-F472B6?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=BE185D" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Image_Segmentation-EC4899?style=for-the-badge" alt="Image Segmentation" />
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-DB2777?style=for-the-badge" alt="LLMs and RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-F472B6?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-BE185D?style=for-the-badge" alt="Prompt Engineering" />
+</p>
+
 </div>
 
 ---
 
-<h2 align="center">🎓 Education & Professional Training 🎓</h2>
+<div align="center">
+
+## 🚀 RESEARCH & FEATURED PROJECTS
+
+*My academic research, thesis, and development work.*
+
+</div>
+
+> ### 🍃 Guava Disease Classification, Detection and Segmentation Using Deep Learning
+> **Bachelor's Thesis** — Implemented and integrated deep-learning models (YOLOv8, OpenCV, Image Segmentation) for agricultural disease analysis, complete with AI model integration and a responsive web application frontend.  
+> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/Monira902)
+
+> ### 🎮 Three Men's Morris Game
+> **Academic Project** — Built a digital implementation of the classic Three Men's Morris strategy game with custom game mechanics, turn management, winning condition logic, and an interactive UI.  
+> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/Monira902)
+
+---
 
 <div align="center">
 
-| 🎀 Degree / Program | 🏫 Institution | 📅 Duration | ✨ Result / Focus |
-| :--- | :--- | :---: | :--- |
-| **BSc in Computer Science & Engineering** | Dhaka International University | 2021 – 2025 | **CGPA: 3.90 / 4.00** |
-| **Higher Secondary Certificate (HSC)** | Milestone College | 2019 – 2021 | **GPA: 4.83 / 5.00** |
-| **Secondary School Certificate (SSC)** | Baghapur High School | 2017 – 2019 | **GPA: 4.83 / 5.00** |
+## 📊 GITHUB ANALYTICS
+
+*My development activity and coding statistics.*
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Monira902&show_icons=true&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&icon_color=EC4899&text_color=4A1935&rank_icon=github" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monira902&layout=compact&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&text_color=4A1935" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="480" src="https://streak-stats.demolab.com?user=Monira902&hide_border=false&border_radius=18&background=FFF0F6&border=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=BE185D&sideLabels=4A1935&currStreakNum=831843&sideNums=831843&dates=9D174D" alt="GitHub Streak" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 EDUCATION & TRAINING
+
+</div>
+
+> ### 🎓 Academic Qualification
+> - **Bachelor of Science in Computer Science & Engineering** — *Dhaka International University* (2021 – 2025) • **CGPA: 3.90 / 4.00**
+> - **Higher Secondary Certificate (HSC)** — *Milestone College* (2019 – 2021) • **GPA: 4.83 / 5.00**
+> - **Secondary School Certificate (SSC)** — *Baghapur High School* (2017 – 2019) • **GPA: 4.83 / 5.00**
+
+> ### 🎀 Professional Development & Training
+> - **Next Level Software Development with AI Engineering** — *Programming Hero* (Jan 2026 – Present)  
+>   *TypeScript, Next.js, Node.js, AI Integration, LLMs, Prompt Engineering, RAG & AI Agents.*
+> - **Programming & Software Engineering** — *Phitron* (Jan 2025 – Dec 2025)  
+>   *C, C++, Python, OOP, Data Structures & Algorithms (DSA) & Database Management.*
+> - **Web Development Training** — *Programming Hero* (Jan 2023 – Jul 2023)  
+>   *HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs & Firebase.*
+
+---
+
+<div align="center">
+
+## 🌸 AREAS OF ACADEMIC INTEREST
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐%20Web%20Engineering-F472B6?style=for-the-badge" alt="Web Engineering" />
+  <img src="https://img.shields.io/badge/💻%20Software%20Development-EC4899?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/🗄️%20Database%20Systems-DB2777?style=for-the-badge" alt="Database Systems" />
+  <img src="https://img.shields.io/badge/🤖%20Artificial%20Intelligence-BE185D?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/👁️%20Computer%20Vision-F472B6?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/✨%20Web--Based%20Applications-EC4899?style=for-the-badge" alt="Web-Based Applications" />
+</p>
+
+I believe in continuous learning, creative problem-solving, and building intelligent software that makes a real impact.  
+Always open to research, tech collaborations, and exciting opportunities!
+
+</div>
+
+---
+
+<div align="center">
+
+## 💌 LET'S CONNECT
+
+### Have a project, research idea, or collaboration in mind?
+Let's build something amazing together!
+
+<p align="center">
+  <a href="https://github.com/Monira902">
+    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=BE185D" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=BE185D" alt="Email" />
+  </a>
+</p>
+
+**📍 Dhaka, Bangladesh**  
+**💻 Open to Software Engineering | AI Research | Collaboration**
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <b>🚀 Next Level Software Dev with AI</b><br/>
-      <i>Programming Hero (2026 – Present)</i><br/>
-      TypeScript, Next.js, Node.js, LLMs, Prompt Engineering, RAG & AI Agents.
-    </td>
-    <td valign="top" width="33%">
-      <b>💻 Programming & Software Eng.</b><br/>
-      <i>Phitron (2025)</i><br/>
-      C, C++, Python, OOP, Data Structures & Algorithms (DSA), Database Management.
-    </td>
-    <td valign="top" width="33%">
-      <b>🌸 Web Development Training</b><br/>
-      <i>Programming Hero (2023)</i><br/>
-      HTML, CSS, JS, React.js, Node.js, Express.js, MongoDB, REST APIs & Firebase.
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:F9A8D4,50:EC4899,100:F472B6&section=footer" width="100%" alt="Footer Banner" />
 
-</div>
-
----
-
-<h2 align="center">📚 Areas of Academic Interest 📚</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌸_Web_Engineering-FCE7F3?style=for-the-badge&logoColor=BE185D&labelColor=FCE7F3&color=F472B6"/>
-  <img src="https://img.shields.io/badge/💻_Software_Development-FCE7F3?style=for-the-badge&color=EC4899"/>
-  <img src="https://img.shields.io/badge/🗄️_Database_Systems-FCE7F3?style=for-the-badge&color=C084FC"/>
-  <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-FCE7F3?style=for-the-badge&color=DB2777"/>
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-FCE7F3?style=for-the-badge&color=F472B6"/>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Statistics 📊</h2>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Monira902&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=DB2777&icon_color=EC4899&text_color=4A2535&ring_color=F472B6" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monira902&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=DB2777&text_color=4A2535" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monira902&hide_border=true&background=FFF5F8&ring=EC4899&fire=DB2777&currStreakLabel=EC4899&sideLabels=4A2535&dates=831843&currStreakNum=4A2535&sideNums=4A2535" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-
-<h3>💌 Let's Connect & Collaborate! 💌</h3>
-
-<p>
-  <a href="https://github.com/Monira902"><img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<br/>
-
-💗 <i>Thanks for stopping by! Keep Learning • Keep Building • Keep Shining</i> ✨
-
-<!-- 🌸 Animated Pink Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:C4B5FD&height=120&section=footer" width="100%"/>
+### 💗 Thanks for visiting my digital space!
+**Keep Learning • Keep Building • Keep Shining**
 
 </div>
