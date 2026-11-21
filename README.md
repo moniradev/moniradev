@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F9A8D4,50:EC4899,100:F472B6&text=MONIRA%20AKTER&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Monira Akter Header" />
 
 <p align="center">
-  <a href="https://github.com/Monira902">
+  <a href="https://github.com/moniradev">
     <img src="https://img.shields.io/badge/GitHub-My%20Profile-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monira902&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=moniradev&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -34,11 +34,11 @@
 
 ## ✦ ABOUT ME ✦
 
-<img src="https://github.com/Monira902.png" width="150" alt="Monira Akter" />
+<img src="https://avatars.githubusercontent.com/u/302371876?v=4" width="150" alt="Monira Akter" />
 
 ### 🌸 Hello, I'm Monira!
 
-**📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate (CGPA 3.90/4.00) &nbsp;•&nbsp; 💻 Developer &nbsp;•&nbsp; 🤖 AI Enthusiast**
+**📍 Keraniganj, Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate (CGPA 3.90/4.00) &nbsp;•&nbsp; 💻 Independent Software Developer &nbsp;•&nbsp; 🤖 AI Enthusiast**
 
 </div>
 
@@ -133,11 +133,11 @@
 
 > ### 🍃 Guava Disease Classification, Detection and Segmentation Using Deep Learning
 > **Bachelor's Thesis** — Implemented and integrated deep-learning models (YOLOv8, OpenCV, Image Segmentation) for agricultural disease analysis, complete with AI model integration and a responsive web application frontend.  
-> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/Monira902)
+> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/moniradev)
 
 > ### 🎮 Three Men's Morris Game
 > **Academic Project** — Built a digital implementation of the classic Three Men's Morris strategy game with custom game mechanics, turn management, winning condition logic, and an interactive UI.  
-> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/Monira902)
+> [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D)](https://github.com/moniradev)
 
 ---
 
@@ -148,12 +148,12 @@
 *My development activity and coding statistics.*
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Monira902&show_icons=true&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&icon_color=EC4899&text_color=4A1935&rank_icon=github" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monira902&layout=compact&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&text_color=4A1935" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=moniradev&show_icons=true&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&icon_color=EC4899&text_color=4A1935&rank_icon=github" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniradev&layout=compact&hide_border=false&border_radius=18&bg_color=FFF0F6&border_color=F9A8D4&title_color=BE185D&text_color=4A1935" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://streak-stats.demolab.com?user=Monira902&hide_border=false&border_radius=18&background=FFF0F6&border=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=BE185D&sideLabels=4A1935&currStreakNum=831843&sideNums=831843&dates=9D174D" alt="GitHub Streak" />
+  <img width="480" src="https://streak-stats.demolab.com?user=moniradev&hide_border=false&border_radius=18&background=FFF0F6&border_color=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=BE185D&sideLabels=4A1935&currStreakNum=831843&sideNums=831843&dates=9D174D" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -209,7 +209,7 @@ Always open to research, tech collaborations, and exciting opportunities!
 Let's build something amazing together!
 
 <p align="center">
-  <a href="https://github.com/Monira902">
+  <a href="https://github.com/moniradev">
     <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
@@ -220,7 +220,7 @@ Let's build something amazing together!
   </a>
 </p>
 
-**📍 Dhaka, Bangladesh**  
+**📍 Keraniganj, Dhaka, Bangladesh**  
 **💻 Open to Software Engineering | AI Research | Collaboration**
 
 <br/>
